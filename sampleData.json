@@ -1,0 +1,130 @@
+[
+  {
+    "productId": "0001",
+    "type": "laptop",
+    "brand": "Dell",
+    "model": "XPS 15",
+    "price": 1899.99,
+    "processor": "Intel i7",
+    "RAM": "16GB",
+    "releaseDate": "2024-02-15",
+    "dimensions": {
+      "width": "35.7 cm",
+      "height": "1.8 cm",
+      "depth": "23.5 cm",
+      "weight": 1800
+    }
+  },
+  {
+    "productId": "0002",
+    "type": "laptop",
+    "brand": "Apple",
+    "model": "MacBook Air 13",
+    "price": 1299.00,
+    "processor": "Apple M2",
+    "RAM": "8GB",
+    "releaseDate": "2024-03-20",
+    "dimensions": {
+      "width": "30.4 cm",
+      "height": "1.1 cm",
+      "depth": "21.2 cm",
+      "weight": 1240
+    }
+  },
+  {
+    "productId": "0003",
+    "type": "laptop",
+    "brand": "HP",
+    "model": "Spectre x360",
+    "price": 1599.00,
+    "processor": "Intel i7",
+    "RAM": "16GB",
+    "releaseDate": "2023-11-05",
+    "dimensions": {
+      "width": "30.6 cm",
+      "height": "1.7 cm",
+      "depth": "22.0 cm",
+      "weight": 1350
+    }
+  },
+  {
+    "productId": "0004",
+    "type": "laptop",
+    "brand": "Lenovo",
+    "model": "ThinkPad X1",
+    "price": 1750.00,
+    "processor": "Intel i9",
+    "RAM": "32GB",
+    "releaseDate": "2024-05-12",
+    "dimensions": {
+      "width": "31.0 cm",
+      "height": "1.5 cm",
+      "depth": "22.3 cm",
+      "weight": 1420
+    }
+  },
+  {
+    "productId": "0005",
+    "type": "smartphone",
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "price": 1099.00,
+    "battery": "5000mAh",
+    "camera": "200MP",
+    "releaseDate": "2024-01-10",
+    "dimensions": {
+      "width": "7.9 cm",
+      "height": "0.9 cm",
+      "depth": "16.3 cm",
+      "weight": 233
+    }
+  },
+  {
+    "productId": "0006",
+    "type": "smartphone",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "price": 999.00,
+    "battery": "3274mAh",
+    "camera": "48MP",
+    "releaseDate": "2023-09-22",
+    "dimensions": {
+      "width": "7.6 cm",
+      "height": "0.8 cm",
+      "depth": "14.7 cm",
+      "weight": 187
+    }
+  },
+  {
+    "productId": "0007",
+    "type": "smartphone",
+    "brand": "Google",
+    "model": "Pixel 8",
+    "price": 799.00,
+    "battery": "4575mAh",
+    "camera": "50MP",
+    "releaseDate": "2023-10-12",
+    "dimensions": {
+      "width": "7.0 cm",
+      "height": "0.9 cm",
+      "depth": "15.5 cm",
+      "weight": 193
+    }
+  },
+  {
+    "productId": "0008",
+    "type": "smartphone",
+    "brand": "OnePlus",
+    "model": "11 Pro",
+    "price": 699.00,
+    "battery": "5000mAh",
+    "camera": "100MP",
+    "releaseDate": "2024-02-01",
+    "dimensions": {
+      "width": "7.5 cm",
+      "height": "0.8 cm",
+      "depth": "16.0 cm",
+      "weight": 205
+    }
+  }
+]
