@@ -137,7 +137,7 @@ db.techProducts.insertMany([
       "dimensions": {
         "width": 70.6,
         "height": 147.0,
-        "depth": 7.6
+        "depth": 7.6.0
       },
       "weight": 167
     },
@@ -855,4 +855,5 @@ db.techProducts.findOne({"productId": "ANISHLAP-01"}, {"shipping.weight": 1})
 }
 db.techProducts.dropIndex({ "price": 1 })
 { nIndexesWas: 9, ok: 1 }
+
 db.techProducts.getIndexes()
