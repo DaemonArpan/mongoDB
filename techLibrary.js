@@ -28,7 +28,7 @@ db.createCollection("techProducts", {
 // laptopdocuments 
 db.techProducts.insertMany([
   {
-    "productId": "ANISHLAP-01",
+    "productId": "ARPANLAP-01",
     "type": "laptop",
     "brand": "Dell",
     "model": "ALIENWARE ",
@@ -857,3 +857,4 @@ db.techProducts.dropIndex({ "price": 1 })
 { nIndexesWas: 9, ok: 1 }
 
 db.techProducts.getIndexes()
+
